@@ -1,0 +1,21 @@
+[00:07:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2991ms or 59 ticks behind
+[00:28:10] [Server thread/INFO]: ryxlive has made the advancement [Acquire Hardware]
+[00:28:29] [Server thread/INFO]: ryxlive has made the advancement [Isn't It Iron Pick]
+[00:43:37] [Server thread/INFO]: ryxlive has made the advancement [Diamonds!]
+[00:44:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3618ms or 72 ticks behind
+[00:44:02] [Server thread/WARN]: ryxlive moved wrongly!
+[01:07:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:54:27] [Server thread/INFO]: ryxlive lost connection: Disconnected
+[01:54:27] [Server thread/INFO]: ryxlive left the game
+[02:12:13] [Server thread/INFO]: Stopping server
+[02:12:13] [Server thread/INFO]: Saving players
+[02:12:13] [Server thread/INFO]: Saving worlds
+[02:12:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[02:12:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:12:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[02:12:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:12:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[02:12:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:12:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:12:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:12:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
